@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "test.mgx.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"TntMinecartEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
